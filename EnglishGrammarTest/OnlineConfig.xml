@@ -8,8 +8,8 @@
     "interstitial_full_screen_id":"Y2EtYXBwLXB1Yi0yMTQ4NTgwODA4NDQ1MzMwLzM2OTA3Nzg2MDU=",
     "m_interstitial_frame_show":"15",
     "fan_device_id":"c2cfa451-b75b-4f98-a79d-a1cdf121010d",
-    "s_had_fan_banner":"true",
-    "s_had_fan_interstitial":"true",
+    "s_had_fan_banner":"false",
+    "s_had_fan_interstitial":"false",
     "fan_banner_ad_unit_id":"744666835723744_961143147409444",
     "fan_interstitial_full_screen_id":"744666835723744_961143980742694"
 }
